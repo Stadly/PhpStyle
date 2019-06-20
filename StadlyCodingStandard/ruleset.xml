@@ -135,4 +135,7 @@
 
     <!-- Use PSR1 standard -->
     <rule ref="PSR1"/>
+
+    <!-- Use PSR2 standard -->
+    <rule ref="PSR2"/>
 </ruleset>
