@@ -132,4 +132,7 @@
     <rule ref="PEAR.WhiteSpace.ObjectOperatorIndent"/>
     <rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
     <!-- <rule ref="PEAR.WhiteSpace.ScopeIndent"/> -->
+
+    <!-- Use PSR1 standard -->
+    <rule ref="PSR1"/>
 </ruleset>
