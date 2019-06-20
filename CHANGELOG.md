@@ -7,7 +7,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## Unreleased
 
 ### Added
-- Nothing
+- Rules from the Generic coding standard.
 
 ### Changed
 - Nothing
