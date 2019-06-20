@@ -11,6 +11,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 - Rules from the PEAR coding standard.
 - Rules from the PSR1 coding standard.
 - Rules from the PSR2 coding standard.
+- Rules from the PSR12 coding standard.
 
 ### Changed
 - Nothing
