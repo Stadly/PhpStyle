@@ -13,6 +13,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 - Rules from the PSR2 coding standard.
 - Rules from the PSR12 coding standard.
 - Rules from the Squiz coding standard.
+- Rules from the Zend coding standard.
 
 ### Changed
 - Nothing

@@ -311,4 +311,13 @@
     <rule ref="Squiz.WhiteSpace.ScopeKeywordSpacing"/>
     <rule ref="Squiz.WhiteSpace.SemicolonSpacing"/>
     <rule ref="Squiz.WhiteSpace.SuperfluousWhitespace"/>
+
+    <!-- Use Zend standard -->
+    <rule ref="Zend.Debug.CodeAnalyzer"/>
+    <rule ref="Zend.Files.ClosingTag"/>
+    <rule ref="Zend.NamingConventions.ValidVariableName">
+		<exclude name="Zend.NamingConventions.ValidVariableName.ContainsNumbers"/>
+		<exclude name="Zend.NamingConventions.ValidVariableName.MemberVarContainsNumbers"/>
+		<exclude name="Zend.NamingConventions.ValidVariableName.PrivateNoUnderscore"/>
+    </rule>
 </ruleset>
