@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<ruleset name="StadlyCodingStandard">
+    <description>Coding standard for Stadly PHP projects</description>
+</ruleset>
