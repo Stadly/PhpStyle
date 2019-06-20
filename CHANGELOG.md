@@ -8,6 +8,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ### Added
 - Rules from the Generic coding standard.
+- Rules from the PEAR coding standard.
 
 ### Changed
 - Nothing

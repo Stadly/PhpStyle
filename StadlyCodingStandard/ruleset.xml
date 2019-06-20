@@ -99,4 +99,37 @@
     <rule ref="Generic.WhiteSpace.IncrementDecrementSpacing"/>
     <rule ref="Generic.WhiteSpace.LanguageConstructSpacing"/>
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
+
+    <!-- Use PEAR standard -->
+    <rule ref="PEAR.Classes.ClassDeclaration"/>
+    <!-- <rule ref="PEAR.Commenting.ClassComment"/> -->
+    <!-- <rule ref="PEAR.Commenting.FileComment"/> -->
+    <!-- <rule ref="PEAR.Commenting.FunctionComment"/> -->
+    <rule ref="PEAR.Commenting.InlineComment"/>
+    <rule ref="PEAR.ControlStructures.ControlSignature"/>
+    <rule ref="PEAR.ControlStructures.MultiLineCondition">
+		<exclude name="PEAR.ControlStructures.MultiLineCondition.StartWithBoolean"/>
+        <properties>
+            <property name="indent" value="0"/>
+        </properties>
+    </rule>
+    <rule ref="PEAR.Files.IncludingFile"/>
+    <rule ref="PEAR.Formatting.MultiLineAssignment"/>
+    <rule ref="PEAR.Functions.FunctionCallSignature">
+		<exclude name="PEAR.Functions.FunctionCallSignature.CloseBracketLine"/>
+		<exclude name="PEAR.Functions.FunctionCallSignature.ContentAfterOpenBracket"/>
+		<exclude name="PEAR.Functions.FunctionCallSignature.Indent"/>
+    </rule>
+    <rule ref="PEAR.Functions.FunctionDeclaration"/>
+    <rule ref="PEAR.Functions.ValidDefaultValue"/>
+    <rule ref="PEAR.NamingConventions.ValidClassName"/>
+    <rule ref="PEAR.NamingConventions.ValidFunctionName">
+		<exclude name="PEAR.NamingConventions.ValidFunctionName.PrivateNoUnderscore"/>
+    </rule>
+    <rule ref="PEAR.NamingConventions.ValidVariableName">
+		<exclude name="PEAR.NamingConventions.ValidVariableName.PrivateNoUnderscore"/>
+    </rule>
+    <rule ref="PEAR.WhiteSpace.ObjectOperatorIndent"/>
+    <rule ref="PEAR.WhiteSpace.ScopeClosingBrace"/>
+    <!-- <rule ref="PEAR.WhiteSpace.ScopeIndent"/> -->
 </ruleset>
