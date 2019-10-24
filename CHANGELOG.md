@@ -7,7 +7,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 ## [Unreleased](https://github.com/Stadly/PhpStyle/compare/v1.0.0...HEAD)
 
 ### Added
-- Nothing
+- Rules added in PHP_CodeSniffer 3.5.0.
 
 ### Changed
 - Nothing

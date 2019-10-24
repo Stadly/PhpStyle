@@ -29,6 +29,7 @@
     </rule>
     <rule ref="Generic.Commenting.Fixme"/>
     <rule ref="Generic.Commenting.Todo"/>
+    <rule ref="Generic.ControlStructures.DisallowYodaConditions"/>
     <rule ref="Generic.ControlStructures.InlineControlStructure"/>
     <rule ref="Generic.Debug.CSSLint"/>
     <rule ref="Generic.Debug.ClosureLinter"/>
@@ -89,6 +90,7 @@
     <rule ref="Generic.PHP.LowerCaseKeyword"/>
     <rule ref="Generic.PHP.LowerCaseType"/>
     <rule ref="Generic.PHP.NoSilencedErrors"/>
+    <rule ref="Generic.PHP.RequireStrictTypes"/>
     <rule ref="Generic.PHP.SAPIUsage"/>
     <rule ref="Generic.PHP.Syntax"/>
     <!-- <rule ref="Generic.PHP.UpperCaseConstant"/> -->
@@ -101,6 +103,7 @@
     <rule ref="Generic.WhiteSpace.IncrementDecrementSpacing"/>
     <rule ref="Generic.WhiteSpace.LanguageConstructSpacing"/>
     <rule ref="Generic.WhiteSpace.ScopeIndent"/>
+    <rule ref="Generic.WhiteSpace.SpreadOperatorSpacingAfter"/>
 
     <!-- Use PEAR standard -->
     <rule ref="PEAR.Classes.ClassDeclaration"/>
