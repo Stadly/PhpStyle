@@ -4,25 +4,10 @@ All notable changes to `PhpStyle` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## [Unreleased](https://github.com/Stadly/PhpStyle/compare/v1.0.0...HEAD)
+## [v1.1.0](https://github.com/Stadly/PhpStyle/compare/v1.0.0...v1.1.0) - 2019-10-24
 
 ### Added
 - Rules added in PHP_CodeSniffer 3.5.0.
-
-### Changed
-- Nothing
-
-### Fixed
-- Nothing
-
-### Deprecated
-- Nothing
-
-### Removed
-- Nothing
-
-### Security
-- Nothing
 
 ## v1.0.0 - 2019-06-20
 
