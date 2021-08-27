@@ -218,6 +218,7 @@
 		<exclude name="Squiz.Commenting.InlineComment.DocBlock"/>
 		<exclude name="Squiz.Commenting.InlineComment.InvalidEndChar"/>
 		<exclude name="Squiz.Commenting.InlineComment.NotCapital"/>
+		<exclude name="Squiz.Commenting.InlineComment.SpacingAfter"/>
     </rule>
     <!-- <rule ref="Squiz.Commenting.LongConditionClosingComment"> -->
     <!-- <rule ref="Squiz.Commenting.PostStatementComment"/> -->
