@@ -10,7 +10,7 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 - Nothing
 
 ### Changed
-- Nothing
+- Updated version of dependencies to support PHP 8.
 
 ### Fixed
 - Nothing
