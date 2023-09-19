@@ -4,25 +4,11 @@ All notable changes to `PhpStyle` will be documented in this file.
 
 Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) principles.
 
-## [Unreleased](https://github.com/Stadly/PhpStyle/compare/v1.1.1...HEAD)
 
-### Added
-- Nothing
+## [v1.1.2](https://github.com/Stadly/PhpStyle/compare/v1.1.1...v1.1.2) - 2023-09-19
 
 ### Changed
 - Updated version of dependencies to support PHP 8.
-
-### Fixed
-- Nothing
-
-### Deprecated
-- Nothing
-
-### Removed
-- Nothing
-
-### Security
-- Nothing
 
 ## [v1.1.1](https://github.com/Stadly/PhpStyle/compare/v1.1.0...v1.1.1) - 2021-08-27
 
