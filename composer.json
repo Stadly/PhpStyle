@@ -1,6 +1,6 @@
 {
     "name": "stadly/php-style",
-    "type": "library",
+    "type": "phpcodesniffer-standard",
     "description": "Coding standard for Stadly PHP projects.",
     "keywords": [
         "PHP",
